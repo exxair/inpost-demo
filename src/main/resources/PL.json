@@ -1,0 +1,139 @@
+{
+  "totalPages": 1,
+  "data": [
+    {
+      "id": "a6107379-be19-48b0-b856-82d6ca5dd218",
+      "name": "OLX",
+      "type": "BROKER",
+      "numbersOfParcel": 50984,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-06-06T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 78043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 173767.45
+        },
+        {
+          "currency": "GBP",
+          "value": 14977.295
+        }
+      ]
+    },
+    {
+      "id": "21bfa289-6d06-4662-a3bc-2dbf0858f92f",
+      "name": "ALLEGRO",
+      "type": "BROKER",
+      "numbersOfParcel": 12984,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-05-25T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 11043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 2459.91
+        },
+        {
+          "currency": "GBP",
+          "value": 2120.67
+        }
+      ]
+    },
+    {
+      "id": "2a648edf-fbef-41f0-a58e-6ce446d23580",
+      "name": "AMAZON",
+      "type": "BROKER",
+      "numbersOfParcel": 15984,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-05-01T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 43043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 9587.96
+        },
+        {
+          "currency": "GBP",
+          "value": 8265.70
+        }
+      ]
+    },
+
+    {
+      "id": "7f5da841-1b0d-420d-93ac-b19dd92e3cef",
+      "name": "EOBUWIE",
+      "type": "MERCHANT",
+      "numbersOfParcel": 1789,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-06-01T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 87043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 16715.12
+        },
+        {
+          "currency": "GBP",
+          "value": 14977.295
+        }
+      ]
+    },
+    {
+      "id": "7f5da841-1b0d-420d-93ac-b19dd92e3cef",
+      "name": "RTV EURO AGD",
+      "type": "MERCHANT",
+      "numbersOfParcel": 111,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-06-25T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 12043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 2682.66
+        },
+        {
+          "currency": "GBP",
+          "value": 2312.70
+        }
+      ]
+    },
+    {
+      "id": "7f5da841-1b0d-420d-93ac-b19dd92e3cef",
+      "name": "XKOM",
+      "type": "MERCHANT",
+      "numbersOfParcel": 34,
+      "description": "Lorem ipsum dolore sit maler",
+      "startOfContractDate": "2023-05-12T09:28:21+0000",
+      "income": [
+        {
+          "currency": "PLN",
+          "value": 1043.30
+        },
+        {
+          "currency": "EUR",
+          "value": 232.40
+        },
+        {
+          "currency": "GBP",
+          "value": 200.35
+        }
+      ]
+    }
+  ]
+
+}
